@@ -1,0 +1,6 @@
+@RaktarAPI_HostAddress = http://localhost:5043
+
+GET {{RaktarAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
